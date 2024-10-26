@@ -1,0 +1,23 @@
+.images {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+  }
+
+  .card{
+    padding-top: 30px;
+  }
+  
+  .card-body {
+    padding-top: 10px;
+  }
+  
+  .card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    color: #555;
+  }

@@ -1,0 +1,121 @@
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  position: relative;
+  background-color: #cce6f4;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  max-width: 500px;
+  width: 90%;
+  box-sizing: border-box;
+}
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: black;
+  margin-bottom: 10px;
+  width: 10%;
+}
+
+.close-button:hover {
+  color: red;
+}
+
+input{
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-bottom: 4px solid #000000;
+  background-color: #eee;
+  border-radius: 5px;
+  height: 40px;
+  box-sizing: border-box;
+}
+
+input:valid{
+  border-color: rgb(0, 185, 0);
+}
+
+button{
+  width: 100%;
+  display: block;
+  background-color: #004e64;
+  height: 40px;
+  color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+h2{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+select {
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 5px;
+  border: none;
+  border-bottom: 4px solid #000000;
+  background-color: #eee;
+  border-radius: 5px;
+  height: 40px; 
+  box-sizing: border-box;
+  appearance: none; 
+}
+
+select:focus {
+  outline: none; 
+  border-color:rgb(0, 185, 0);
+  background-color: #ffffff;
+}
+
+option {
+  padding: 10px;
+}
+
+.flex-container {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap; 
+}
+
+.flex-item {
+  flex: 1;
+}
+
+.flex-item input,
+.flex-item select {
+  width: 100%; 
+}
+
+.passwordContainer {
+  display: flex;
+  gap: 10px;
+}
+
+.passwordContainer .flex-item {
+  flex: 1;
+}

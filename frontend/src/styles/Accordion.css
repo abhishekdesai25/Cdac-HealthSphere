@@ -1,0 +1,46 @@
+.accordion-container{
+    width: 70%;
+    margin-top: 10%;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.accordion-item{
+    margin-bottom: 20px;
+}
+
+.accordion-content{
+    padding: 50px;
+    
+}
+
+.accordion-header{
+    padding: 10px;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+
+button.treated{
+    width: 200px;
+}
+
+.button.container {
+    display: flex;
+    justify-content: flex-start;
+    gap: 150px; 
+    margin-top: 0px; 
+    padding-top: 0; 
+}
+
+.appSubmit,
+.appDelete {
+    padding: 10px 20px; /* Adds padding inside the buttons */
+    border: none; /* Removes the default border */
+    border-radius: 4px; /* Adds rounded corners */
+    cursor: pointer; /* Changes the cursor to a pointer on hover */
+}
+
+.button.container {
+    margin-top: 30px !important; /* Ensures no whitespace above the container */
+    padding-top: 0 !important;
+}

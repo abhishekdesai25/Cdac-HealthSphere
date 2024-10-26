@@ -1,0 +1,78 @@
+.record-container {
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px; 
+    height: 550px; /* Adjust height to fit content */
+    max-height: 900px; /* Limit height to avoid overflow */
+    width: 100%; /* Full width within the parent container */
+    max-width: 150vh; /* Limit the maximum width */
+    overflow-y: auto; /* Add scroll if content exceeds max height */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add subtle shadow for depth */
+    margin: 20px auto; /* Center the container */
+    position: relative; /* Position relative for internal alignment */
+    scrollbar-width: none; /* Hide scrollbar for Firefox */
+    -ms-overflow-style: none; /* Hide scrollbar for IE and Edge */
+}
+
+.record-container::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for WebKit-based browsers */
+}
+
+.head {
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 40px; /* Increase font size for the heading */
+    font-weight: bold; /* Make the heading bold */
+    color: #000000; /* Darker color for better contrast */
+}
+
+.record-data {
+    display: flex; /* Align content horizontally */
+    justify-content: space-between; /* Space between the text and image */
+    margin-top: 20px; /* Add space between each record */
+    padding: 20px;
+}
+
+.record-data-1 {
+    flex: 2; /* Take more space for text */
+    padding-right: 20px; /* Add some padding to the right */
+}
+
+.record-data-1 p {
+    margin: 10px 0; /* Increase margin between paragraphs */
+    font-size: 18px; /* Increase font size for better readability */
+    color: #000000; /* Set a medium color for text */
+}
+
+.record-data-1 p strong {
+    display: inline-block;
+    width: 150px; /* Adjust the width as needed */
+    font-size: 18px; /* Increase font size for headers */
+    color: #000000; /* Darker color for headers */
+}
+
+.record-data-2 {
+    flex: 1; /* Take less space for the image */
+    display: flex;
+    align-items: center; /* Center the image vertically */
+    justify-content: center; /* Center the image horizontally */
+}
+
+.record-data-2 img {
+    max-width: 100%; /* Make sure the image is responsive */
+    max-height: 200px; /* Limit the height of the image */
+    border-radius: 10px; /* Add rounded corners to the image */
+    object-fit: contain; /* Ensure the image retains its aspect ratio */
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #000000;
+    margin: 20px 0;
+}
+
+.title-line {
+    border: none;
+    border-top: 5px solid #000000;
+    margin: 10px 0 20px;
+}

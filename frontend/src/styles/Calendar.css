@@ -1,0 +1,81 @@
+.slot-scheduler-container {
+    width: 100%;
+    padding: 20px;
+    margin-right: 200px;
+    margin-left: 250px;
+    margin-top: 25%;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.slot-scheduler-container h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+}
+
+.time-picker-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.time-picker {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.time-picker:last-child {
+    margin-right: 0;
+}
+
+.time-picker label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #555;
+}
+
+.add-slot-button {
+    display: inline-block;
+    width: 100%;
+    padding: 10px 0;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+
+.add-slot-button:hover {
+    background-color: #0056b3;
+}
+
+.slots-list h3 {
+    margin-top: 20px;
+    font-size: 1.4em;
+    color: #333;
+}
+
+.slots-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.slots-list li {
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    font-size: 1em;
+    color: #555;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

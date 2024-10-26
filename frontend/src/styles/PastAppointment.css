@@ -1,0 +1,45 @@
+.pat-appointment-container {
+    background-color: #f4f4f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .appointment-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .appointment-table th, .appointment-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center; /* Center the text in the table cells */
+  }
+  
+  .appointment-table th {
+    background-color: #8c8c8c;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .appointment-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .appointment-table tr:hover {
+    background-color: #ddd;
+  }
+  
+  .appointment-table td {
+    font-size: 14px;
+  }
+  
+  .no-appointments {
+    text-align: center;
+    color: #777;
+    font-style: italic;
+    padding: 20px;
+  }
+  

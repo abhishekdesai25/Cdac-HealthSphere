@@ -1,0 +1,39 @@
+.dashboard-container1{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 20%;
+  align-items: flex-start;
+}
+
+.profile7 {
+  background-color: #4ba3c3;
+  width: 300px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-right: 20px;
+  position: relative;
+  top: 0;
+  z-index: 100;
+}
+
+/* @media (max-width: 576px) {
+  .profile7{
+    width: 100%;
+  }
+} */
+
+.content7 {
+  margin-top: 10px;
+  margin-left: 30px;
+  width: 240px;
+  font-size: 20px;
+}
+
+.register7{
+
+    margin-bottom: 10px;
+    width: 200px;
+    margin-left: 15%;
+}

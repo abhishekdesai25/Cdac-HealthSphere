@@ -1,0 +1,552 @@
+[33mcommit 447e180bc88a5f1665b37abfa00ab524d4468ff5[m[33m ([m[1;36mHEAD -> [m[1;32mdev-ben[m[33m)[m
+Author: SParkIt <sparkit123@gmail.com>
+Date:   Wed Aug 21 16:51:38 2024 +0530
+
+    complete doctor dashboard - accordian, calender
+
+[33mcommit a79c5034d28a88345592e68a23320502d7fbc263[m
+Merge: c5a9698 3e7dadb
+Author: SParkIt <sparkit123@gmail.com>
+Date:   Wed Aug 21 11:42:40 2024 +0530
+
+    Merge branch 'dev-ben' of https://github.com/benzps01/Cdac-HealthSphere into dev-ben
+
+[33mcommit c5a9698be666993dc6f9454cca8897bd9162a1fa[m
+Author: SParkIt <sparkit123@gmail.com>
+Date:   Wed Aug 21 11:36:18 2024 +0530
+
+    update doctor dashboard
+
+[33mcommit 3e7dadb4e09bda9ca91e86aa65a1f0d550e3d96c[m
+Merge: c7fd942 2b0d67f
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Wed Aug 21 11:35:00 2024 +0530
+
+    Merge pull request #30 from benzps01/main
+    
+    Merging from main
+
+[33mcommit c7fd9424c3b70166a9595826c3a27b827ff60236[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Wed Aug 21 11:34:14 2024 +0530
+
+    refactored appointment service
+
+[33mcommit e2470831bcf4d0ceca02bd19b9bddcd64aa740f7[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Wed Aug 21 11:32:17 2024 +0530
+
+    refactoring appointment service
+
+[33mcommit 2b0d67f3c9652f84fbf122bcb37271079d08d500[m
+Merge: d06c5b7 dd57ad5
+Author: Rajul Dubey <46771371+BantuD@users.noreply.github.com>
+Date:   Wed Aug 21 11:21:16 2024 +0530
+
+    Merge pull request #28 from BantuD/main
+    
+    Patient Controller
+
+[33mcommit dd57ad5a3214d9620cceb9f2107b266ca2cde65b[m
+Merge: 2c8461f d06c5b7
+Author: BantuD <rajuldubey30@gmail.com>
+Date:   Wed Aug 21 11:18:44 2024 +0530
+
+    Merge branch 'main' of https://github.com/BantuD/Cdac-HealthSphere
+    
+    merged the branch
+
+[33mcommit 2c8461f8ddbc9f4ea5df5eae0d6e5a3306837fba[m
+Author: BantuD <rajuldubey30@gmail.com>
+Date:   Wed Aug 21 11:18:24 2024 +0530
+
+    added new controller patient and removed data query parameter from get patient appointments
+
+[33mcommit a0b52aac569cbd4bb1a630715207543e4d39df75[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Wed Aug 21 11:01:16 2024 +0530
+
+    complete patientDashboard
+
+[33mcommit d06c5b7f1a879eba9c8756638d31902fff5bf6e3[m
+Merge: 7ce667c 47caa57
+Author: Rajul Dubey <46771371+BantuD@users.noreply.github.com>
+Date:   Wed Aug 21 09:41:50 2024 +0530
+
+    Merge pull request #27 from BantuD/main
+    
+    Endpoints Configured
+
+[33mcommit 47caa5797b255229c4a1bc34f152a6298df0f67c[m
+Merge: 00092de 7ce667c
+Author: Rajul Dubey <46771371+BantuD@users.noreply.github.com>
+Date:   Wed Aug 21 09:41:19 2024 +0530
+
+    Merge branch 'benzps01:main' into main
+
+[33mcommit 00092deafac1506f5e5cb8cf0c6c8c8b46757b38[m
+Author: BantuD <rajuldubey30@gmail.com>
+Date:   Wed Aug 21 09:40:30 2024 +0530
+
+    Endpoint configuration
+
+[33mcommit 7ce667c7446ef0c55223f3735c37efc2d3da62dd[m
+Merge: 3f0fc34 54c0f03
+Author: Rajul Dubey <46771371+BantuD@users.noreply.github.com>
+Date:   Wed Aug 21 00:34:17 2024 +0530
+
+    Merge pull request #26 from BantuD/main
+    
+    CORS
+
+[33mcommit 54c0f03ac75ae4b5870cddb0bec9ddd1e73992b6[m
+Merge: 3c143ca 3f0fc34
+Author: BantuD <rajuldubey30@gmail.com>
+Date:   Wed Aug 21 00:33:33 2024 +0530
+
+    added CORS
+
+[33mcommit 3c143ca74bd8172eb4ace8b31fa6f4791ccd2a52[m
+Author: BantuD <rajuldubey30@gmail.com>
+Date:   Wed Aug 21 00:24:12 2024 +0530
+
+    CORS
+
+[33mcommit e35b4b3f8cfd1f27d41cf1ed36fad80ae8b8cb1c[m
+Merge: bee9e70 3a58bb2
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Tue Aug 20 21:37:59 2024 +0530
+
+    Merge pull request #25 from benzps01/dev-abhi
+    
+    Updated frontend CSS
+
+[33mcommit bee9e70196997d5e4e9aad768452e4c4226f1d72[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Tue Aug 20 21:37:12 2024 +0530
+
+    add appointment details
+
+[33mcommit 3a58bb2c8ea7c3ea361e1dc59de2dd7ee676c8d7[m[33m ([m[1;31morigin/dev-abhi[m[33m)[m
+Author: abhishekdesai25 <abhi2534desai@gmail.com>
+Date:   Tue Aug 20 12:10:52 2024 +0530
+
+    Updated frontend CSS
+
+[33mcommit 3f0fc34ef758fc796b82be67c95f9eff4eb21af0[m
+Merge: 1096103 110b551
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Tue Aug 20 01:02:48 2024 +0530
+
+    Merge pull request #24 from benzps01/dev-ben
+    
+    Dev ben
+
+[33mcommit 110b5519fddc4e45b1a1f3d6815abc5aa8dfe731[m
+Merge: 8a05612 831d6cd
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Tue Aug 20 01:02:17 2024 +0530
+
+    Merge branch 'dev-ben' of https://github.com/benzps01/Cdac-HealthSphere into dev-ben
+
+[33mcommit 8a0561275618530449d4992eac7bcb35da0e6e6e[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Tue Aug 20 01:02:12 2024 +0530
+
+    add appointment service to dev-ben
+
+[33mcommit 1096103b57adda6f3ce66edcdae1b1316016390e[m
+Merge: c62fd9c 831d6cd
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Tue Aug 20 01:00:51 2024 +0530
+
+    Merge pull request #23 from benzps01/dev-ben
+    
+    Merging from dev-ben to main
+
+[33mcommit 831d6cde275db871d788f4770148c7b5e922c94f[m
+Merge: 1a25124 c62fd9c
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Tue Aug 20 01:00:12 2024 +0530
+
+    Merge pull request #22 from benzps01/main
+    
+    Merging from main to dev-ben
+
+[33mcommit 1a25124e3b03c4c0fc16826dd9cdbc65e1b4f284[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Tue Aug 20 00:59:24 2024 +0530
+
+    refactoring dev-ben
+
+[33mcommit c62fd9c02329520625ef5d52430d01e1bc254022[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Tue Aug 20 00:57:40 2024 +0530
+
+    refactoring appointment service
+
+[33mcommit 8230b9ca3f544cfe02faa2e4a533df00eec3300a[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Tue Aug 20 00:42:24 2024 +0530
+
+    checking changes
+
+[33mcommit 7dcf4ec709e574ae9006b7cc1d75545895d96440[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Tue Aug 20 00:30:03 2024 +0530
+
+    Some stashed changes
+
+[33mcommit 6f9ad3ae0faae26fc06840f4fb982233b1c7016d[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Tue Aug 20 00:27:29 2024 +0530
+
+    cache file changes
+
+[33mcommit bbdb8ab9a92fb7af7d06158a5fa131cae8e0a6ac[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Tue Aug 20 00:27:25 2024 +0530
+
+    cache file changes
+
+[33mcommit 7af443b30024275121f364d09e8587c2ef43cc7f[m
+Merge: 8c022a1 e5e6158
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Mon Aug 19 23:57:36 2024 +0530
+
+    Merge branch 'main' of https://github.com/benzps01/Cdac-HealthSphere
+
+[33mcommit 8c022a1a79b8060b288b0e50f4ce407b9e043df9[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Mon Aug 19 23:57:22 2024 +0530
+
+    merging from dev-ben to main
+
+[33mcommit 5f8a31b12a2974e1c17d7f3561dc15d7638a2962[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Mon Aug 19 23:56:36 2024 +0530
+
+    changes
+
+[33mcommit 3a342039f3a163b124675577cee9a1623e47e680[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Mon Aug 19 23:54:20 2024 +0530
+
+    changes
+
+[33mcommit cafec58da8eab388a10042192b7af168e8c7c6f3[m
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Mon Aug 19 23:52:01 2024 +0530
+
+    update dotnet files and add ehr records to patient profile
+
+[33mcommit e5e6158b8f3b04bb316f29a84a8e38d65543d60a[m
+Merge: 1f90f92 455618a
+Author: Rajul Dubey <46771371+BantuD@users.noreply.github.com>
+Date:   Mon Aug 19 22:55:29 2024 +0530
+
+    Merge pull request #17 from BantuD/main
+    
+    added get appointment list by patientId and Date
+
+[33mcommit 455618a7539738ce8d33b257da27c87277cbb048[m
+Merge: d7e0e19 1f90f92
+Author: Rajul Dubey <46771371+BantuD@users.noreply.github.com>
+Date:   Mon Aug 19 22:55:21 2024 +0530
+
+    Merge branch 'main' into main
+
+[33mcommit d7e0e19a899d3b92db0ad626e4b0f90dd8798120[m
+Author: BantuD <rajuldubey30@gmail.com>
+Date:   Mon Aug 19 22:52:40 2024 +0530
+
+    added get appointment list by patientId and Date
+
+[33mcommit 1f90f9264c3967773ac376dfa7ef05bc8a2ab66d[m
+Merge: 7e486e1 42011c2
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Mon Aug 19 22:28:53 2024 +0530
+
+    Merge pull request #16 from BantuD/Testing-Conflicted-code
+    
+    New updates 19-08-2024
+
+[33mcommit 42011c29b9183a14b7ba1385ef7e2b3a96c5a413[m
+Merge: 07b21fe 7e486e1
+Author: Rajul Dubey <46771371+BantuD@users.noreply.github.com>
+Date:   Mon Aug 19 22:26:29 2024 +0530
+
+    Merge branch 'main' into Testing-Conflicted-code
+
+[33mcommit 07b21fee1681c0b6236635d0f1e1de2f17109176[m
+Author: BantuD <rajuldubey30@gmail.com>
+Date:   Mon Aug 19 21:55:15 2024 +0530
+
+    New updates 19-08-2024
+
+[33mcommit 019aab56b1341ff01d4f32c60eff8aa71a77ab86[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 19:27:05 2024 +0530
+
+    minor css changes and add records in patient dashboard
+
+[33mcommit 1a9b013f6dc78571205645e7aabe7c4a7a07a0ae[m
+Merge: 72e5a34 7abd48e
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 07:46:55 2024 +0530
+
+    Merge branch 'dev-abhi' of https://github.com/benzps01/Cdac-HealthSphere into dev-abhi
+
+[33mcommit 72e5a34776d085899c3449773f9dafa13945faf5[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 07:44:01 2024 +0530
+
+    some unnecessary commit
+
+[33mcommit d641e200a559ef8cb06bd8d280fa1a47cc0e6876[m
+Merge: 07169a7 9476e29
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:29:31 2024 +0530
+
+    Merge branch 'dev-ben' of https://github.com/benzps01/Cdac-HealthSphere into dev-ben
+
+[33mcommit 07169a76d7b388e7cab5dec0c4a946093156818e[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:29:26 2024 +0530
+
+    unnecessary cache files
+
+[33mcommit 9476e29b29df173edbeef3c9c9d39f7dc69b430e[m
+Merge: dc4a038 7e486e1
+Author: Benson P Sabu <benzps01@gmail.com>
+Date:   Mon Aug 19 00:24:31 2024 +0530
+
+    Merge pull request #13 from benzps01/main
+    
+    Merging from main branch
+
+[33mcommit 7e486e1ebc2d0d054cf05f639bc8b39474cdf56f[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:23:43 2024 +0530
+
+    unncessary commit
+
+[33mcommit 9bc52b5109796a3fe399e2802ec727f41cc872d8[m
+Merge: dc4a038 a041be4
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:23:21 2024 +0530
+
+    Merge branch 'main' of https://github.com/benzps01/Cdac-HealthSphere
+
+[33mcommit dc4a03883f4fd8521319d3547f6caebdfe15a063[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:22:15 2024 +0530
+
+    create ehr data as table
+
+[33mcommit 1dc39cb010d7099ad09d7eb4b2fbd90dcbd30f02[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:21:51 2024 +0530
+
+    handle appointment booking
+
+[33mcommit 3cfe5c882e0cdcf1d38b1d3b64c6e7dd0b0c5cfd[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:21:24 2024 +0530
+
+    handle patient profilepic
+
+[33mcommit b8cbd131500f6190dd92cb3d5097fd2c0c58a06e[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:20:08 2024 +0530
+
+    update doctor profilepic url
+
+[33mcommit fd1dce06ce7370734bb077158679e495367a0cd8[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:19:35 2024 +0530
+
+    dotnet backend test code
+
+[33mcommit 78e57cc59694093a19b38597fd299b1a74a0d02b[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:19:13 2024 +0530
+
+    add starttime and endtime for doctor service
+
+[33mcommit 2d64b3a08eacacbd2d0d9a446884aedffbfa5c4c[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:18:52 2024 +0530
+
+    backend application files
+
+[33mcommit 0ea2d4acd280dcfa9d4206ddb033368b034c4a56[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:18:13 2024 +0530
+
+    remove uncessary dependency
+
+[33mcommit a6f3ee3e897b130a221aa90dcfb4a5030f3e7e64[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:17:59 2024 +0530
+
+    remove debug code from controller
+
+[33mcommit 04cc34334bbbc24befb74298016b77dab77de0d0[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:17:38 2024 +0530
+
+    change datatype of patients
+
+[33mcommit be8edb2678592db3bf4cf2e66f202366f077d989[m
+Author: benzps01 <benzps01@gmail.com>
+Date:   Mon Aug 19 00:16:51 2024 +0530
+
+    change datatype of mobileno
+
+[33mcommit a041be474d9f2848b11f63ab9e9e21c2721b71ec[m
+Merge: 784222a da23cbf
+Author: Rajul Dubey <46771371+BantuD@users.noreply.github.com>
+Date:   Sun Aug 18 23:17:19 2024 +0530
+
+    Merge pull request #12 from BantuD/main
+    
+    Refactored GetById for Appointments
+
+[33mcommit da23cbff0d64e8f0f23c03b5993c7de62dba8400[m
+Merge: f3f73ac 784222a
+Author: Rajul Dubey <46771371+BantuD@users.noreply.github.com>
+Date:   Sun Aug 18 23:16:24 2024 +0530
+
+    Merge branch 'benzps01:main' into main
+
+[33mcommit f3f73ac2c83aafe15d7f767f1de138e82475cd70[m
+Author: BantuD <rajuldubey30@gmail.com>
+Date:   Sun Aug 18 23:13:45 2024 +0530
+
+     Refactored GetById for Appointments
+
+[33mcommit 784222af8a23a96db8cf339fb4f885b95d1d4c8c[m
+Merge: bceebf2 1ecd84b
+Author: Rajul Dubey <46771371+BantuD@users.noreply.github.com>
+Date:   Sun Aug 18 20:39:59 2024 +0530
+
+    Merge pull request #11 from BantuD/main
+    
+    appointment post
+
+[33mcommit 1ecd84b84faea1d333b624a8974222b7ebc6c132[m
+Merge: 275f3a2 14e3db0
+Author: BantuD <rajuldubey30@gmail.com>
+Date:   Sun Aug 18 20:37:31 2024 +0530
+
+    Merge branch 'main' of https://github.com/BantuD/Cdac-HealthSphere
+    
+    before puhsing modified appointment post request
+
+[33mcommit 275f3a2b1e0f2f60a25491ce75248df5e28481ff[m
+Author: BantuD <rajuldubey30@gmail.com>
+Date:   Sun Aug 18 20:37:25 2024 +0530
+
+     modified get request for appointment
+
+[33mcommit 7abd48e336c02976be1cd140d511358ba23f6fde[m
+Author: abhishekdesai25 <abhi2534desai@gmail.com>
+Date:   Sun Aug 18 20:36:02 2024 +0530
+
+    minor changes
+
+[33mcommit 0b569df6a838c8b59fa737a973c826d3a1645686[m
+Author: abhishekdesai25 <abhi2534desai@gmail.com>
+Date:   Sun Aug 18 20:29:19 2024 +0530
+
+    Create doctor registration form.
+
+[33mcommit 14e3db05695fd86959ef11c5c1e62e70f1738547[m
+Merge: e51c335 bceebf2
+Author: Rajul Dubey <46771371+BantuD@users.noreply.github.com>
+Date:   Sun Aug 18 20:18:57 2024 +0530
+
+    Merge branch 'benzps01:main' into main
+
+[33mcommit e51c335c3a876f1c78a0e6638c8f1c0e02e39034[m
+Merge: d5bb02f b3905a1
+Author: BantuD <rajuldubey30@gmail.com>
+Date:   Sun Aug 18 20:16:55 2024 +0530
+
+    Merge branch 'main' of https://github.com/BantuD/Cdac-HealthSphere
+    
+    After DoctorAppointmets Merging
+
+[33mcommit bceebf26fdc7d4a4bff19228d7ba471a341f7081[m
+Merge: 4a26a47 8ead3c9
+Author: hrishikesh <81430547+Hrishi2520@users.noreply.github.com>
+Date:   Sun Aug 18 20:16:47 2024 +0530
+
+    Merge pull request #10 from benzps01/dev-hrishi
+    
+    Merging EHR Service to Main branch
+
+[33mcommit d5bb02fd179c52530036c8d1baf36653effdce76[m
+Author: BantuD <rajuldubey30@gmail.com>
+Date:   Sun Aug 18 20:16:35 2024 +0530
+
+     Post Request For Appointment
+
+[33mcommit 8ead3c970aa8b4a516261c70148c2bc2f935a6ad[m[33m ([m[1;31morigin/dev-hrishi[m[33m)[m
+Merge: bbf2f8e 4a26a47
+Author: hrishikesh <81430547+Hrishi2520@users.noreply.github.com>
+Date:   Sun Aug 18 20:13:57 2024 +0530
+
+    Merge pull request #9 from benzps01/main
+    
+    Merging Latest Commits
+
+[33mcommit bbf2f8eb8e2f20219fa96e204aa28be801d31915[m
+Author: Hrishi2520 <hrishikeshshedge0@gmail.com>
+Date:   Sun Aug 18 19:52:51 2024 +0530
+
+    Fetch XRAY by EHR ID
+
+[33mcommit 8d9beb93d9e6032867992c9a894d44b80a48a197[m
+Author: Hrishi2520 <hrishikeshshedge0@gmail.com>
+Date:   Sun Aug 18 19:24:04 2024 +0530
+
+    added Doctor Specialization in EHR
+
+[33mcommit 4a26a47a2c1f910957b95f92c38414197e1de0f2[m
+Merge: 0ddfcbb b3905a1
+Author: Rajul Dubey <46771371+BantuD@users.noreply.github.com>
+Date:   Sun Aug 18 19:06:53 2024 +0530
+
+    Merge pull request #8 from BantuD/main
+    
+    Doctor appointment Card Endpoint
+
+[33mcommit b3905a19ff6a028ff1f6227b69268dce4ab96ce9[m
+Merge: 1efc3cd 0ddfcbb
+Author: Rajul Dubey <46771371+BantuD@users.noreply.github.com>
+Date:   Sun Aug 18 19:05:05 2024 +0530
+
+    Merge branch 'benzps01:main' into main
+
+[33mcommit 1efc3cd7ac89ce4ef225d1defb8c8e936121efdc[m
+Author: BantuD <rajuldubey30@gmail.com>
+Date:   Sun Aug 18 19:04:28 2024 +0530
+
+    added doctor/appointment/id?date=your_date"
+
+[33mcommit 4705ecfc00e0eb945482ffd8b767118b3a211beb[m
+Author: Hrishi2520 <hrishikeshshedge0@gmail.com>
+Date:   Sun Aug 18 18:53:08 2024 +0530
+
+    get Electronic Health Records by Patient Id
+
+[33mcommit a4e5d7caa08a91f821792c1edfdf25c8e2839be5[m
+Author: Hrishi2520 <hrishikeshshedge0@gmail.com>
+Date:   Sun Aug 18 18:08:19 2024 +0530
+
+    Persist New Electronic Health Record
+
+[33mcommit 98cf1c8f8be1637271ebc93632209d92875621b0[m
+M
